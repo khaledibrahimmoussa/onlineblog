@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://www.khaledibrahimmoussa.com/sitemap.xml
